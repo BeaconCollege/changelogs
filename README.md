@@ -60,3 +60,27 @@ COMMISSIONED 13th JANUARY 2021
 - Some page tidying and polishing
 - Turned off 'An Announcement from the Owner & Founder of Old Digibox' banner
 Added Adverts page to Museum
+
+# 3.1.1.1*
+COMMISSIONED 15th JANUARY 2021
+- Added info about the Discord Server
+
+# 3.1.1.2
+COMMISIONED 6th FEBRUARY 2021
+- Minor text changes
+- Removed 'An Announcement from the Owner & Founder of Old Digibox' news article
+- Added Sky Talker page
+- All advert YouTube embeds replaced with static images (which should stop browser lag)
+- Pi Digibox page hidden from navigation and moved to Our Projects
+
+# 3.1.1.2.a
+COMMISIONED 6th FEBRUARY 2021
+- All box manufacturer pages match
+- Added Pace BSKYB3100 'Flower Print' box
+- Added Thomson DSI8210 '160' box
+- Added pages for these EPG versions:  Sky+1.24.i1 and Sky+1.28.v2
+- Reworked FAQ page
+- Reworked About Us page
+- Fixed some 404 errors
+- Turned on banner for sudden PVR4 updates
+In addition to this, a new news article has been created
